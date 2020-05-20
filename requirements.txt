@@ -1,1 +1,6 @@
-Flask==1.0.2
+Flask==1.1.1
+numpy==1.17.2
+pandas==0.25.1
+progressbar==2.5
+Shapely==1.7.0
+mysql-connector-python==8.0.20
